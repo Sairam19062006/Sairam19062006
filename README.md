@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Sairam19062006/Sairam19062006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and an aspiring **future data engineer**.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** Python, C
+- **Web:** HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I love to code and build things.
+- I'm passionate about learning new technologies and solving problems.
+
+## 📈 Goals
+- Develop my skills in data engineering and software development.
+- Work on exciting projects and collaborate with others in the tech community.
+
+---
+
+Let's connect and code something awesome together!
