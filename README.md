@@ -11,12 +11,12 @@ I'm a student and an aspiring **future Web Developer**.
 - I'm passionate about learning new technologies and solving problems.
 
 ## 📈 Goals
-- Develop my skills in data engineering and software development.
+- Develop my skills in Advanced Web technologies and get placed in a reputed company.
 - Work on exciting projects and collaborate with others in the tech community.
 
 ## 🚀 Current  Activity
 - Developing my skills in the advanced HTMl , CSS and JavaScript.
-- Understanding and Exploring the Great **LINUX**(MINT)
+- Understanding and Exploring the Great **LINUX** (MINT)
 ---
 
 Let's connect and code something awesome together!
